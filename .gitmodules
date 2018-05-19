@@ -1,0 +1,24 @@
+[submodule "lab-1-ya-misterMak"]
+	path = lab-1-ya-misterMak
+	url = https://github.com/iuthub/lab-1-ya-misterMak.git
+[submodule "lab-2-ya-misterMak"]
+	path = lab-2-ya-misterMak
+	url = https://github.com/iuthub/lab-2-ya-misterMak.git
+[submodule "lab-3-misterMak"]
+	path = lab-3-misterMak
+	url = https://github.com/iuthub/lab-3-misterMak.git
+[submodule "lab-4-misterMak"]
+	path = lab-4-misterMak
+	url = https://github.com/iuthub/lab-4-misterMak.git
+[submodule "lab-5-misterMak"]
+	path = lab-5-misterMak
+	url = https://github.com/iuthub/lab-5-misterMak.git
+[submodule "lab-6-misterMak"]
+	path = lab-6-misterMak
+	url = https://github.com/iuthub/lab-6-misterMak.git
+[submodule "lab-8-misterMak"]
+	path = lab-8-misterMak
+	url = https://github.com/iuthub/lab-8-misterMak.git
+[submodule "lab-10-misterMak"]
+	path = lab-10-misterMak
+	url = https://github.com/iuthub/lab-10-misterMak.git
